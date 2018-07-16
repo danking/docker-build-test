@@ -1,0 +1,13 @@
+name: hail
+dependencies:
+- python=3.6
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- bokeh
+- jupyter
+- pip
+- pip:
+    - parsimonious
+    - ipykernel
